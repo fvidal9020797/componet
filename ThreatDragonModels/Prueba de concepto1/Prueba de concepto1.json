@@ -1,0 +1,16 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Prueba de concepto1",
+    "owner": "Luis Fernando Vidal",
+    "description": "Login",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Jaime Ivan",
+    "threatTop": 0
+  }
+}
