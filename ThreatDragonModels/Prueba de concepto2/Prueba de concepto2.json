@@ -1,0 +1,27 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Prueba de concepto2",
+    "owner": "Luis Fernando Vidal",
+    "description": "Login",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "ejercicio1",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "practica1"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Jaime Ivan",
+    "threatTop": 0
+  }
+}
